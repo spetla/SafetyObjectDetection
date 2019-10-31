@@ -1,0 +1,19 @@
+item {
+    id: 1
+    name: 'harness'
+}
+
+item {
+    id: 2
+    name: 'helmet'
+}
+
+item {
+    id: 3
+    name: 'hook'
+}
+
+item {
+    id: 4
+    name: 'leash'
+}
